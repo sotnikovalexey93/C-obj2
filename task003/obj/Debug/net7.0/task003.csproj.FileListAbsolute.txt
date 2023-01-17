@@ -1,0 +1,15 @@
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\task003.csproj.AssemblyReference.cache
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\task003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\task003.AssemblyInfoInputs.cache
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\task003.AssemblyInfo.cs
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\task003.csproj.CoreCompileInputs.cache
+C:\Users\79819\Desktop\Практика\C#obj2\task003\bin\Debug\net7.0\task003.exe
+C:\Users\79819\Desktop\Практика\C#obj2\task003\bin\Debug\net7.0\task003.deps.json
+C:\Users\79819\Desktop\Практика\C#obj2\task003\bin\Debug\net7.0\task003.runtimeconfig.json
+C:\Users\79819\Desktop\Практика\C#obj2\task003\bin\Debug\net7.0\task003.dll
+C:\Users\79819\Desktop\Практика\C#obj2\task003\bin\Debug\net7.0\task003.pdb
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\task003.dll
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\refint\task003.dll
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\task003.pdb
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\task003.genruntimeconfig.cache
+C:\Users\79819\Desktop\Практика\C#obj2\task003\obj\Debug\net7.0\ref\task003.dll
